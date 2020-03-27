@@ -1,0 +1,12 @@
+Package: reportR
+Type: Package
+Title: R Report-Makign Toolkit
+Version: 1.0.0
+Author: c(
+  person("Chris", "Tillich", role = c("aut", "cre"), email = "christian.tillich@uptake.com"))
+Maintainer: Christian Tillich <christian.tillich@uptake.com>
+Description: A little helperfuns pack to assist in the creation of Rmarkdown reports. Some wrappers around `rmarkdown::render` to get the environment stuff right, then little helpers for html tables, and other odds and ends to make report creation easier. 
+License: None. Uptake Internal Use Only. 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
